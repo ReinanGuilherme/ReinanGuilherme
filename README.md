@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on FASITEC<br>I'm currently perfecting myself in the C# language
 
 
-## 🌐 Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reinan-guilherme-34086b236) 
 
 # 💻 Tech Stack:
