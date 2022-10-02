@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on FASITEC<br>I'm currently perfecting myself in the C# language
+I'm currently perfecting myself in the C# language
 
 
 # Socials:
