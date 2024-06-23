@@ -1,19 +1,44 @@
-# About Me:
-I'm currently perfecting myself in the C# language
+# Olá, me chamo Reinan Guilherme 👋
 
+## Sobre Mim
+Paixão por tecnologia e inovação me guiam na criação de soluções de software eficientes e de alta qualidade. Com sólida experiência em desenvolvimento full-stack, tenho me especializado em .NET Core, C#, Blazor e GoLang, utilizando práticas modernas de DevOps e gerenciamento de pipelines com Azure DevOps. Meu conhecimento e perfil técnico me permitem oferecer soluções completas e integradas.
 
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reinan-guilherme-34086b236) 
+Entusiasta de tecnologia e aprendizado contínuo, acredito que o desenvolvimento de software vai além de escrever código – trata-se de entender problemas e proporcionar soluções inovadoras que fazem a diferença. Sempre aberto a novos desafios, colaboro com equipes diversas para alcançar objetivos comuns.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ReinanGuilherme&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ReinanGuilherme&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinanGuilherme&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Coding](https://user-images.githubusercontent.com/placeholder-for-coding-image.png)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🌟 Principais Competências
+- **Desenvolvimento Full-Stack** com .NET Core, C# e Blazor
+- **Implementação de pipelines CI/CD** com Azure DevOps
+- **Desenvolvimento backend** com C# e GoLang
+- Fortes habilidades de **resolução de problemas** e **trabalho em equipe**
+
+## 🚀 Experiência e Projetos
+Ao longo da minha carreira, participei de projetos desafiadores, onde pude aprimorar minhas habilidades em desenvolvimento ágil, colaboração em equipe e resolução de problemas. Sempre em busca de novos conhecimentos e oportunidades para aplicar minhas habilidades, estou comprometido em contribuir para o sucesso dos projetos em que atuo.
+
+### Projetos em Destaque
+- [Projeto 1](https://github.com/usuario/projeto1) - Descrição breve do projeto.
+- [Projeto 2](https://github.com/usuario/projeto2) - Descrição breve do projeto.
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [E-mail](mailto:seu-email@dominio.com)
+- [Blog/Twitter/Outra Rede Social](https://linkpararede.com)
+
+![Work Together](https://user-images.githubusercontent.com/placeholder-for-collaboration-image.png)
+
+## 🛠️ Ferramentas e Tecnologias
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-blue)
+![C#](https://img.shields.io/badge/-C%23-green)
+![Blazor](https://img.shields.io/badge/-Blazor-purple)
+![GoLang](https://img.shields.io/badge/-GoLang-blue)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-blue)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-yellow)
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ReinanGuilherme&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Obrigado por visitar meu perfil! Vamos conectar e criar algo incrível juntos. 🚀
