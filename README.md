@@ -24,8 +24,6 @@ Ao longo da minha carreira, participei de projetos desafiadores, onde pude aprim
 - [E-mail](mailto:seu-email@dominio.com)
 - [Blog/Twitter/Outra Rede Social](https://linkpararede.com)
 
-![Work Together](https://user-images.githubusercontent.com/placeholder-for-collaboration-image.png)
-
 ## 🛠️ Ferramentas e Tecnologias
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-blue)
 ![C#](https://img.shields.io/badge/-C%23-green)
