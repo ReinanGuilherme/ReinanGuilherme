@@ -5,12 +5,11 @@ Paixão por tecnologia e inovação me guiam na criação de soluções de softw
 
 Entusiasta de tecnologia e aprendizado contínuo, acredito que o desenvolvimento de software vai além de escrever código – trata-se de entender problemas e proporcionar soluções inovadoras que fazem a diferença. Sempre aberto a novos desafios, colaboro com equipes diversas para alcançar objetivos comuns.
 
-![Coding](https://user-images.githubusercontent.com/placeholder-for-coding-image.png)
-
 ## 🌟 Principais Competências
 - **Desenvolvimento Full-Stack** com .NET Core, C# e Blazor
 - **Implementação de pipelines CI/CD** com Azure DevOps
 - **Desenvolvimento backend** com C# e GoLang
+- **SQL Server**
 - Fortes habilidades de **resolução de problemas** e **trabalho em equipe**
 
 ## 🚀 Experiência e Projetos
@@ -34,10 +33,6 @@ Ao longo da minha carreira, participei de projetos desafiadores, onde pude aprim
 ![GoLang](https://img.shields.io/badge/-GoLang-blue)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-blue)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-yellow)
-
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
 ---
 
