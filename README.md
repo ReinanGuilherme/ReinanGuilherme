@@ -20,9 +20,8 @@ Ao longo da minha carreira, participei de projetos desafiadores, onde pude aprim
 - [Projeto 2](https://github.com/usuario/projeto2) - Descrição breve do projeto.
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [E-mail](mailto:seu-email@dominio.com)
-- [Blog/Twitter/Outra Rede Social](https://linkpararede.com)
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/reinan-guilherme-34086b236))
+- [E-mail](r.guilhermedeoliveira3dev@gmail.com)
 
 ## 🛠️ Ferramentas e Tecnologias
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-blue)
